@@ -6,4 +6,4 @@ Select a specific Asian food:
 ## [Japanese](https://www.japan-guide.com/e/e620.html)
 ## [Thai](https://www.thrillist.com/eat/new-york/best-thai-restaurants-nyc-new-york-city)
 ---
-Start Over
+[Start Over](../home.md)
